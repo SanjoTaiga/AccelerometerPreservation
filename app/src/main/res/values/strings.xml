@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="val_x">val_x</string>
+    <string name="val_y">val_y</string>
+    <string name="val_z">val_z</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="change">Change</string>
+</resources>
